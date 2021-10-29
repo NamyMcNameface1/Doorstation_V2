@@ -1,0 +1,6 @@
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\bin\x64\Doorstation\Test.exe
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\bin\x64\Doorstation\Test.pdb
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\obj\x64\Doorstation\Test.csprojAssemblyReference.cache
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\obj\x64\Doorstation\Test.exe
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\obj\x64\Doorstation\Test.pdb
+C:\Users\atpuma\Documents\Webentwicklung Einschulung\C# - MOSH\Applications\First\Test\Test\bin\x64\Doorstation\App.config
